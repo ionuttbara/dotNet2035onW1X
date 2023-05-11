@@ -11,7 +11,7 @@ this is basically an AIO for microsoft-windows-netfx3-ondemand-package.cab for x
 - Wait for the extraction process to complete  
 - Wait for the installation/adding process to complete  
 
-# Where i can download that package?
+# Where i can download the package?
 
 - Go into  __Releases__ Section.
 - And download the package desired to your versoin of Windows.
