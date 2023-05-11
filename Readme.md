@@ -7,7 +7,6 @@ this is basically an AIO for microsoft-windows-netfx3-ondemand-package.cab for x
 
 * Usage:  
 - Run as administrator  
-- Click Next to begin the process  
 - Wait for the extraction process to complete  
 - Wait for the installation/adding process to complete  
 
