@@ -18,6 +18,6 @@ this is basically an AIO for microsoft-windows-netfx3-ondemand-package.cab for x
 
 ```
 Packages name:
-for Windows 10 build 10240/10586/14393/15063/16299 - dotNet2035_W10P1.exe
+for Windows 10 build 14393/15063/16299 - dotNet2035_W10P1.exe
 for Windows 10 17134/17363/18362/19041  -dotNet2035_W10P2.exe
 for Windows 11 22000/22621 - dotNet2035_W11.exe
